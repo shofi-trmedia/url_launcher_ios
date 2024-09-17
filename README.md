@@ -14,3 +14,4 @@ should add it to your `pubspec.yaml` as usual.
 [1]: https://pub.dev/packages/url_launcher
 [2]: https://flutter.dev/to/endorsed-federated-plugin
 # url_launcher_ios
+# url_launcher_ios

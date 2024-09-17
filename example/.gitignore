@@ -1,0 +1,67 @@
+rm# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+../.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+
+# Web related
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+/.idea/
+/ios/build/
+/android/key.jks
+/.fvm/
+/ios/Runner.ipa
+/macos/Collage Maker - PhotoJoiner.app/
+/macos/Collage Maker - PhotoJoiner.app.dSYM.zip
+
+# Flutter Integration test generated folder/files
+**/build
+**/build.ios
+**/build.macos
+/.fleet/
+
+/lib/assets/assets.preview.dart
+/lib/assets/cm_assets.preview.dart
+/macos/AppStore_com.freeconvert.collagemaker.mobileprovision
+/macos/CDC7HQA38X.cer
+
+\lib/assets\cm_assets.preview.dart
